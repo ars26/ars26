@@ -1,4 +1,4 @@
-![headerImage](https://github.com/ars26/ars26/ArsHeader.png)
+![headerImage](https://github.com/ars26/ars26/blob/main/ArsHeader.png)
 
 # Hi, I'm Ars! 
 
