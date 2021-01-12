@@ -1,6 +1,6 @@
+![headerImage](https://github.com/ars26/ars26/blob/master/ArsHeader.png/)
+
 # Hi, I'm Ars! 
-
-
 
 I am a rising senior at the University of Rochester majoring in Computational Biology & Psychology and I am incredibly passionate about using modern tools such as big data analyses and statistics to create policies that impact me and you. 
 
