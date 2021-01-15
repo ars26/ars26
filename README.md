@@ -8,4 +8,4 @@ From interpersonal violence, to police brutality, to voter suppression: I feel t
 
 I have been exploring these intersections for quite a while: from researching why a beautiful bird may go extinct in Florida, to how much University students (mis)trust their campus' police, to sexual-identity disclosure in adolescents-- I have come to conclude that data-driven policy-making is the future. 
 
-Please feel free to explore any of my projects, resumes, and [LinkedIn](https://www.linkedin.com/in/ars26/)! You can always shoot me an email as well, I am always looking to improve! 
+Please feel free to explore any of my [projects, resumes](https://github.com/ars26/resumes-portfolios), and [LinkedIn](https://www.linkedin.com/in/ars26/)! You can always shoot me an email as well, I am always looking to improve! 
